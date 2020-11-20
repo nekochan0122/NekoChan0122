@@ -8,8 +8,8 @@
 - 🌱 目前正在學習前端
 
 ### 聯絡我：
-
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] Discord：NekoChan#2851
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+Discord：NekoChan#2851
 
 <br />
 
