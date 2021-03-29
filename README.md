@@ -1,6 +1,6 @@
 ## 歡迎來到我的個人檔案 👋
 
-<a href="https://www.pixiv.net/artworks/84738255" title="Pixiv"><img style="max-width:60%;" src="images/pixiv84738255.jpg" /></a>
+<a href="https://www.pixiv.net/artworks/84738255" title="Pixiv"><img width="60%" src="images/pixiv84738255.jpg" /></a>
 
 ## 我愛貓娘，貓娘我婆 🐈
 
