@@ -13,7 +13,7 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
 
-### 學習中🗒
+### 學習中🗒：
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 
 ### 聯絡：
