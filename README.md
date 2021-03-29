@@ -15,6 +15,6 @@
 
 ### 聯絡：
 
-<img align="left" width="35px" src="icons/discord.png" /> NekoChan#2851
+<a href="https://discord.com/"><img align="left" width="25px" src="icons/discord.png" /></a> NekoChan#2851
 
 ---
