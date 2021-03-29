@@ -11,10 +11,8 @@
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
 
-<br />
-
 ### 聯絡：
 
-<a href="https://discord.com/"><img align="left" width="25px" src="icons/discord.png" /></a> NekoChan#2851
+<a href="https://discord.com/"><img align="left" width="25px" src="icons/discord.png" /></a>NekoChan#2851
 
 ---
