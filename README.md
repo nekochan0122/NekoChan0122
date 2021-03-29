@@ -18,14 +18,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
-### 最新文章：
-
-- [VScode 延伸模組 Live Server](https://nekochan.cf/posts/bc11/)
-- [Butterfly 美化 (持續更新中)](https://nekochan.cf/posts/456/)
-
-➡️ [更多內容...](https://nekochan.cf/)
 
 ### 聯絡：
 
