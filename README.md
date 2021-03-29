@@ -10,6 +10,7 @@
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS3"><img width="25px" src="icons/css3.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
+<a href="https://hexo.io/" title="Hexo"><img width="25px" src="icons/hexo.png" /></a>
 
 ### Learning🗒：
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
