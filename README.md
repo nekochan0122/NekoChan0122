@@ -1,21 +1,15 @@
 ## 歡迎來到我的個人檔案 👋
 
-[![Website](https://img.shields.io/website?label=nekochan.cf&style=for-the-badge&url=https%3A%2F%2Fnekochan.cf)](https://nekochan.cf/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TW_NEKO_CHAN?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=TW_NEKO_CHAN)
-
 ## 我愛貓娘，貓娘我婆 🐈
 
-### 使用的工具和語言：
+### 使用的工具與語言：
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/f9dfaa4c06f5dafa233f7f080bcd1b84631a0206/icons/python.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5"><img src="icons/html5.png" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS" title="CSS3"><img src="icons/css3.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
 
 <br />
 
