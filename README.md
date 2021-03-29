@@ -16,6 +16,9 @@
 ### 學習中🗒：
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 
+### GitHub 分數：
+<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+
 ### 聯絡：
 
 <a href="https://discord.com/"><img align="left" width="25px" src="icons/discord.png" /></a>NekoChan#2851
