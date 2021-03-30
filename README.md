@@ -14,8 +14,8 @@
 
 ### Learning🗒：
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img width="25px" src="icons/typescript.png" /></a>
-<a href="https://vuejs.org/" title="Vue"><img width="25px" src="icons/vue.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img width="35px" src="icons/typescript.png" /></a>
+<a href="https://vuejs.org/" title="Vue"><img width="35px" src="icons/vue.png" /></a>
 
 ### GitHub Stats：
 <p><img src="https://github-readme-stats.vercel.app/api?username=NekoChanTaiwan&amp;show_icons=true" alt="GitHub Stats"></p>
