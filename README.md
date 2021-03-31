@@ -23,6 +23,6 @@
 
 ### Contact：
 
-<a href="https://discord.com/"><img width="18px" src="icons/discord.png" /></a> <b>NekoChan#2851</b>
+<a href="https://discord.com/"><img align="bottom" width="18.4px" src="icons/discord.png" /></a> <b>NekoChan#2851</b>
 
 ---
