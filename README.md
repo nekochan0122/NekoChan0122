@@ -10,8 +10,6 @@
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img width="32px" src="icons/typescript.png" /></a>
 <a href="https://vuejs.org/" title="Vue"><img width="37px" src="icons/vue.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
-<a href="https://hexo.io/" title="Hexo"><img width="35px" src="icons/hexo.png" /></a>
 
 ### Learning🗒：
 <a href="https://nodejs.org/" title="Node.js"><img width="35px" src="icons/node-js.png" /></a>
