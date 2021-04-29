@@ -12,7 +12,7 @@
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 
 ### Learning🗒 :
-<a href="https://nodejs.org/" title="Node.js"><img width="35px" src="icons/node-js.png" /></a>
+<a href="https://reactjs.org/" title="React"><img width="35px" src="icons/react.png"></a>
 
 ### GitHub Status :
 <p><img src="https://github-readme-stats.vercel.app/api?username=NekoChanTaiwan&amp;show_icons=true" alt="GitHub Stats"></p>
