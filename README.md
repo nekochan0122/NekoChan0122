@@ -8,11 +8,10 @@
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS3"><img width="28px" src="icons/css3.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img width="32px" src="icons/typescript.png" /></a>
-<a href="https://vuejs.org/" title="Vue"><img width="37px" src="icons/vue.png" /></a>
+<a href="https://reactjs.org/" title="React"><img width="35px" src="icons/react.png"></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 
-### Learning🗒 :
-<a href="https://reactjs.org/" title="React"><img width="35px" src="icons/react.png"></a>
+<!-- ### Learning🗒 : -->
 
 ### GitHub Status :
 <p><img src="https://github-readme-stats.vercel.app/api?username=NekoChanTaiwan&amp;show_icons=true" alt="GitHub Stats"></p>
