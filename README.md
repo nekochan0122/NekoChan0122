@@ -1,5 +1,7 @@
 ## Nyahello ~ 🌸
 
+I'm try to become a Full-Stack Developer.
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoChanTaiwan&bg_color=30,BF3150,FF9D93&title_color=fff&text_color=fff&hide_border=true&count_private=true)
