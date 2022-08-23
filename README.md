@@ -1,6 +1,6 @@
 ## Nyahello ~ 🌸
 
-I'm try to become a Full-Stack Developer.
+I'm trying to become a Full-Stack Developer.
 
 ---
 
